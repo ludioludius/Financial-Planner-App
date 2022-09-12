@@ -1,0 +1,26 @@
+{
+  "portfolio": {
+    "capital": 0,
+    "dividend percent": 0,
+    "ROI": 0
+  },
+  "loans": [],
+  "name": "Financial Data",
+  "property": {
+    "valuation": 0,
+    "appreciation": 0,
+    "rental income": 0,
+    "property costs": 0
+  },
+  "savings": {
+    "interest rate": 0,
+    "balance": 0
+  },
+  "salary": {
+    "average annual salary growth rate": 0,
+    "estimated tax percent": 0,
+    "gross salary": 0,
+    "percent net salary invested": 0
+  },
+  "expenses": []
+}

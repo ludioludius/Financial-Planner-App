@@ -1,0 +1,35 @@
+{
+    "portfolio": {
+        "capital": 10000,
+        "dividend percent": 0.01,
+        "ROI": 0.05
+    },
+    "loans": [{
+        "loan": "home loan",
+        "interest rate": 24,
+        "outstanding balance": 100000,
+        "months to pay loan": 24,
+        "status": true
+    }],
+    "name": "Financial Data",
+    "property": {
+        "valuation": 1000000,
+        "appreciation": 0.01,
+        "rental income": 13000,
+        "property costs": 1000
+    },
+    "savings": {
+        "interest rate": 0.01,
+        "balance": 10000
+    },
+    "salary": {
+        "average annual salary growth rate": 0,
+        "estimated tax percent": 0.15,
+        "gross salary": 100000,
+        "percent net salary invested": 0.2
+    },
+    "expenses": [{
+        "cost": 150,
+        "expense": "gas"
+    }]
+}
